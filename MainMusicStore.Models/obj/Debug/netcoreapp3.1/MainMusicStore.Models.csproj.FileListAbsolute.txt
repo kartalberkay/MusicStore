@@ -1,0 +1,9 @@
+C:\Users\karta\OneDrive\Masaüstü\MainMusicStore\MainMusicStore.Models\bin\Debug\netcoreapp3.1\MainMusicStore.Models.deps.json
+C:\Users\karta\OneDrive\Masaüstü\MainMusicStore\MainMusicStore.Models\bin\Debug\netcoreapp3.1\MainMusicStore.Models.dll
+C:\Users\karta\OneDrive\Masaüstü\MainMusicStore\MainMusicStore.Models\bin\Debug\netcoreapp3.1\MainMusicStore.Models.pdb
+C:\Users\karta\OneDrive\Masaüstü\MainMusicStore\MainMusicStore.Models\obj\Debug\netcoreapp3.1\MainMusicStore.Models.AssemblyInfoInputs.cache
+C:\Users\karta\OneDrive\Masaüstü\MainMusicStore\MainMusicStore.Models\obj\Debug\netcoreapp3.1\MainMusicStore.Models.AssemblyInfo.cs
+C:\Users\karta\OneDrive\Masaüstü\MainMusicStore\MainMusicStore.Models\obj\Debug\netcoreapp3.1\MainMusicStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\karta\OneDrive\Masaüstü\MainMusicStore\MainMusicStore.Models\obj\Debug\netcoreapp3.1\MainMusicStore.Models.dll
+C:\Users\karta\OneDrive\Masaüstü\MainMusicStore\MainMusicStore.Models\obj\Debug\netcoreapp3.1\MainMusicStore.Models.pdb
+C:\Users\karta\OneDrive\Masaüstü\MainMusicStore\MainMusicStore.Models\obj\Debug\netcoreapp3.1\MainMusicStore.Models.csprojAssemblyReference.cache
